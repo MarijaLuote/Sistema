@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+
+#spalva {
+		color: #fff;
+        background-color: #337ab7;
+        border-color: #337ab7;
+}
+#spalva2 {
+	border-top: 1px solid #ddd;
+}
